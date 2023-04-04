@@ -8,10 +8,9 @@ This analysis serves to investigate cycle rates and charge/discharge rates for D
 
 Following this, we show response curves from DC, DM and DR to illulstrate how they would respond to these deviations.
 
-![DC](https://user-images.githubusercontent.com/114344240/229790190-17351a2d-5cf5-4a49-91fa-f141837dfa8b.png)
+![DC](https://user-images.githubusercontent.com/114344240/229823572-df5e2d2a-a0ea-40ed-9c7e-43263eed9e37.png)
 ![DM](https://user-images.githubusercontent.com/114344240/229790197-3e45f274-69dc-4c32-8ada-5979708f95a6.png)
 ![DR](https://user-images.githubusercontent.com/114344240/229790208-0602c5fb-35e2-4b2a-bbb1-86d57ffcc364.png)
-
 
 ## Charge/Discharge Rates
 
@@ -38,5 +37,12 @@ Following this we investigate changes in cycling based on a monthly, days in the
 
 
 ![hour](https://user-images.githubusercontent.com/114344240/229822732-57357034-e7ac-45c0-80fa-09675fc2b2d4.png)
+
+At a monthly level, cycle rates tend to dip around summer time in all services, most likely due to less renewables on the grid meaning increased inertia so more grid stability without use of balancing services. The lowest cycle rate for all services is in August, with the highest tending to be December. The change from lowest to highest is usually a difference between 10-25%.
+
+For the days of the week, 
+
+
+
 
 
