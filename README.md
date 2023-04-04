@@ -23,6 +23,20 @@ This verifies how aggressive DR is due to the nature of the service and how much
 
 For warranty purposes, the percentage of time spent > 0.8C for DC, DM and DR is 0%, 0.2% and 0.7% respectively.
 
+## Cycle rates
+
+Now we look at the cycle rates for each service, which will be measured in charges/discharges depending on what service you are in. We can plot a daily average assuming running in each service all day.
+
+![daily](https://user-images.githubusercontent.com/114344240/229818624-71b394e5-72fe-489e-8cf5-aa1c0745b391.png)
+
+Following this we investigate changes in cycling based on a monthly, days in the week and hourly basis.
+
+![monthly](https://user-images.githubusercontent.com/114344240/229820529-41bd3125-0971-4f3c-8c24-92102233baf5.png)
 
 
-## Cycle Rates
+![dayofweek](https://user-images.githubusercontent.com/114344240/229822560-5c0be8f2-c8d4-401f-9f2b-eacf673a59b6.png)
+
+
+![hour](https://user-images.githubusercontent.com/114344240/229822732-57357034-e7ac-45c0-80fa-09675fc2b2d4.png)
+
+
